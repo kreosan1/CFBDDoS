@@ -31,8 +31,8 @@ Usage
 ```javascript
 Install on Kali/Debian
 
-git clone https://github.com/yottaiq/CloudAttack.git
-cd CloudAttack
+git clone https://github.com/kreosan1/CFBDDoS.git
+cd CFBDDoS
 chmod +x install.sh
 ./install.sh
 
